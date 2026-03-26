@@ -1,325 +1,228 @@
-# 🚀 Creative GitHub Profile README
+# Hi, I'm **Arunkumar M** 👋
 
-```
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                                                                           ║
-║     ██████╗ ██╗   ██╗██╗██╗     ██████╗ ███████╗██╗   ██╗███████╗██╗     ║
-║     ██╔══██╗██║   ██║██║██║     ██╔══██╗██╔════╝██║   ██║██╔════╝██║     ║
-║     ██████╔╝██║   ██║██║██║     ██║  ██║█████╗  ██║   ██║█████╗  ██║     ║
-║     ██╔══██╗██║   ██║██║██║     ██║  ██║██╔══╝  ╚██╗ ██╔╝██╔══╝  ╚═╝     ║
-║     ██████╔╝╚██████╔╝██║███████╗██████╔╝███████╗ ╚████╔╝ ███████╗██╗     ║
-║     ╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═════╝ ╚══════╝  ╚═══╝  ╚══════╝╚═╝     ║
-║                                                                           ║
-║                  🌟 Full Stack Developer & Problem Solver 🌟              ║
-║                                                                           ║
-╚═══════════════════════════════════════════════════════════════════════════╝
-```
+### Full Stack Developer | Java • Web Development • MySQL
+
+I'm a B.Tech IT final-year student from Salem College of Engineering and Technology, passionate about building scalable web applications and solving real-world problems through code.
+
+**Currently focused on:** Full-stack web development with Java backend and modern frontend technologies.
 
 ---
 
-## 👋 **Hey There!** 
+## 🌐 **Connect With Me**
 
-I'm **Arunkumar M**, a passionate **Full Stack Developer** crafting digital solutions that solve real-world problems. Currently building production-grade applications and preparing to make an impact in the tech world. 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ARUNKUMAR3530)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arunkumar-m3035)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:m.arunkumar4700@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/919360095701)
 
-**⚡ Quick Facts:**
-- 🎓 B.Tech IT (Salem College of Engineering) | Graduating June 2026
-- 🌍 Based in Pudukkottai, Tamil Nadu, India  
-- 💻 Full Stack Developer | Java • MySQL • Web Technologies
-- 🚀 Live Project on Production (Vercel)
-- 🎯 Placement Ready | Open to Opportunities
-
----
-
-## 🔥 **Featured Project: GPS-Based Complaint Redressal System**
-
-```
-╔════════════════════════════════════════════════════════════════════════╗
-║                                                                        ║
-║  🗺️  GPS-BASED COMPLAINT REDRESSAL SYSTEM                             ║
-║  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━    ║
-║                                                                        ║
-║  📊 Status        │ ✅ LIVE & DEPLOYED                                 ║
-║  🔗 Live Demo     │ gps-based-complaint-redressal-syste.vercel.app    ║
-║  📦 Repository    │ github.com/ARUNKUMAR3530/GPS-...                  ║
-║  📈 Commits       │ 37+ (Active Development)                           ║
-║  👥 Capacity      │ 100+ Concurrent Users                              ║
-║  ⏱️  Performance   │ <2 Second Load Time                               ║
-║                                                                        ║
-║  💡 WHAT IT DOES:                                                      ║
-║  Citizens report civic issues (potholes, lights, etc.) with real-time ║
-║  GPS location. Admins review, approve, and track resolution. Smart,  ║
-║  simple, and deployed to production.                                 ║
-║                                                                        ║
-║  🛠️  TECH STACK:                                                       ║
-║  ┌─────────────────────────────────────────────────────────────────┐  ║
-║  │ Backend: Java | JDBC | MySQL                                   │  ║
-║  │ Frontend: HTML5 | CSS3 | JavaScript (ES6+)                     │  ║
-║  │ Database: MySQL (Properly Normalized)                          │  ║
-║  │ Deployment: Vercel | CI/CD Pipeline                            │  ║
-║  └─────────────────────────────────────────────────────────────────┘  ║
-║                                                                        ║
-║  🎯 KEY ACHIEVEMENTS:                                                  ║
-║  ✨ Real-time GPS tracking with Geolocation API                       ║
-║  ✨ Secure authentication & authorization                             ║
-║  ✨ Responsive design (mobile-first approach)                         ║
-║  ✨ SQL injection prevention (prepared statements)                    ║
-║  ✨ Production deployment with auto-scaling                           ║
-║  ✨ Solved GPS accuracy & DB connection issues                        ║
-║                                                                        ║
-╚════════════════════════════════════════════════════════════════════════╝
-```
+**Location:** Pudukkottai, Tamil Nadu, India  
+**Graduation:** June 2026
 
 ---
 
-## 🛠️ **Technical Arsenal**
+## 💡 **About Me**
 
-### **💻 Languages**
-```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  Java              ████████████████░░  92%  (Strong)        │
-│  JavaScript        ██████████░░░░░░░░  75%  (Proficient)    │
-│  SQL               ██████████░░░░░░░░  78%  (Proficient)    │
-│  HTML5/CSS3        ███████████░░░░░░░  85%  (Advanced)      │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+I'm passionate about building web applications that solve real problems. My journey includes developing a **live GPS-based civic complaint system** that's currently deployed on Vercel and demonstrates full-stack capabilities from database design to production deployment.
 
-### **🔧 Technologies & Tools**
-```
-╔═══════════════════════╦═══════════════════════╦═══════════════════════╗
-║  BACKEND              ║  DATABASES            ║  TOOLS & PLATFORMS    ║
-╠═══════════════════════╬═══════════════════════╬═══════════════════════╣
-║ ✅ Core Java          ║ ✅ MySQL              ║ ✅ Git & GitHub       ║
-║ ✅ JDBC               ║ ✅ Optimization       ║ ✅ VS Code            ║
-║ ✅ OOP Concepts       ║ ✅ Normalization      ║ ✅ Vercel             ║
-║ ✅ Exception Handling ║ ✅ Indexing           ║ ✅ Postman            ║
-║ 📚 Learning: Spring   ║ ✅ Query Tuning       ║ ✅ GitHub Actions     ║
-╠═══════════════════════╬═══════════════════════╬═══════════════════════╣
-║  FRONTEND             ║  CONCEPTS             ║  DEPLOYMENT           ║
-╠═══════════════════════╬═══════════════════════╬═══════════════════════╣
-║ ✅ HTML5              ║ ✅ REST APIs          ║ ✅ Vercel             ║
-║ ✅ CSS3 (Responsive)  ║ ✅ Design Patterns    ║ ✅ CI/CD Pipeline     ║
-║ ✅ JavaScript (ES6+)  ║ ✅ SOLID Principles   ║ 📚 Learning: Docker   ║
-║ ✅ Geolocation API    ║ ✅ Security Practices ║ 📚 Learning: K8s      ║
-║ ✅ DOM Manipulation   ║ ✅ Performance Opt.   ║                       ║
-╚═══════════════════════╩═══════════════════════╩═══════════════════════╝
-```
+I believe in writing clean, maintainable code and continuously learning new technologies. I'm currently focusing on **Java backend development**, **relational databases**, and **web technologies** while exploring **Spring Framework** and **modern DevOps practices**.
+
+---
+
+## 🛠️ **Technical Skills**
+
+### **Languages**
+- Java (Core Java, OOP, Collections, Exception Handling)
+- JavaScript (ES6+, DOM Manipulation, Async Programming)
+- HTML5 & CSS3 (Responsive Design, Flexbox, Grid)
+- SQL (Advanced Queries, Optimization, Normalization)
+
+### **Backend & Databases**
+- **Java:** JDBC, Prepared Statements, Connection Pooling
+- **Databases:** MySQL, Relational Database Design (1NF, 2NF, 3NF)
+- **Database Concepts:** Indexing, Query Optimization, Foreign Keys, Transactions
+
+### **Frontend**
+- HTML5 (Semantic markup, Forms, Accessibility)
+- CSS3 (Responsive Design, Animations, Bootstrap)
+- JavaScript (ES6+, Geolocation API, Fetch API, Event Handling)
+
+### **Tools & Platforms**
+- **Version Control:** Git & GitHub (Commits, Branching, Merging)
+- **Deployment:** Vercel (CI/CD Pipelines, Auto-scaling)
+- **IDEs:** VS Code, IntelliJ IDEA
+- **Others:** Postman (API Testing), MySQL Workbench, Command Line
+
+### **In Progress / Learning**
+- Spring Framework (Spring Boot, Spring Data JPA)
+- Docker & Kubernetes basics
+- CI/CD with GitHub Actions
+- React or Vue.js for modern frontend development
+
+---
+
+## 🚀 **Key Projects**
+
+### **1. GPS-Based Complaint Redressal System** 
+**Status:** Live & Deployed  
+**Live Demo:** [https://gps-based-complaint-redressal-syste.vercel.app](https://gps-based-complaint-redressal-syste.vercel.app)  
+**GitHub:** [View Repository](https://github.com/ARUNKUMAR3530/GPS-Based-Complaint-Redressal-System)
+
+A full-stack web application enabling citizens to report and track civic complaints using real-time GPS location.
+
+**Key Features:**
+- Real-time GPS location tracking using Geolocation API
+- User authentication and role-based access (Citizen & Admin)
+- Complete complaint lifecycle: registration → review → tracking → resolution
+- Secure data storage with MySQL database
+- Responsive UI that works on mobile and desktop
+- Automated deployment pipeline with CI/CD
+
+**Technology Stack:**
+- **Backend:** Java, JDBC, MySQL
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+)
+- **Database:** MySQL with proper normalization and relationships
+- **Deployment:** Vercel with automated CI/CD
+
+**Achievements:**
+- Handles 100+ concurrent users
+- Load time < 2 seconds
+- Implemented SQL injection prevention with prepared statements
+- 37 commits showing active development and problem-solving
+- Successfully deployed to production using Vercel
+
+**Challenges Solved:**
+- GPS accuracy issues on various devices (implemented validation and retry logic)
+- Database connection timeouts (added connection pooling and retry mechanisms)
+- CORS errors between frontend and backend (configured proper headers)
+- Performance optimization with pagination and database indexing
+
+---
+
+## 📚 **Education**
+
+**Bachelor of Technology (B.Tech) in Information Technology**  
+Salem College of Engineering and Technology, Salem  
+Expected Graduation: June 2026
+
+**Ongoing Training:**
+- Q-Spiders Institute: Core Java, Web Technology, SQL, Manual Testing
+- Self-learning: Spring Framework, Advanced Database Design, DevOps Concepts
 
 ---
 
 ## 📊 **GitHub Statistics**
 
-```
-╔════════════════════════════════════════════════════════════════╗
-║                                                                ║
-║  📈 GITHUB INSIGHTS                                            ║
-║  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  ║
-║                                                                ║
-║  Total Repositories    │  5                                   ║
-║  Main Project          │  GPS-Based Complaint Redressal       ║
-║  Active Commits        │  37+                                 ║
-║  Languages Used        │  Java (30.6%) | JS (53.8%) | CSS    ║
-║  Production Projects   │  1 (Live on Vercel)                 ║
-║                                                                ║
-║  📉 Commit Activity                                            ║
-║  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  ║
-║                                                                ║
-║  This Month    │ ████████░░░░░░░░  Active Development        ║
-║  This Quarter  │ ██████████░░░░░░  Consistent Progress       ║
-║  This Year     │ ███████████░░░░░  Building Strong Portfolio  ║
-║                                                                ║
-╚════════════════════════════════════════════════════════════════╝
-```
+[![GitHub Streak](https://streak-stats.demolab.com?user=ARUNKUMAR3530&theme=dark&hide_border=true)](https://github.com/ARUNKUMAR3530)
 
 ---
 
-## 🎯 **What Drives Me**
+## 🎯 **What I'm Working On**
 
-```
-┌────────────────────────────────────────────────────────────────┐
-│                                                                │
-│  💡 PASSIONS                                                   │
-│  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  │
-│                                                                │
-│  🔹 Building Scalable Solutions                               │
-│     Creating apps that grow from 10 to 10,000 users          │
-│                                                                │
-│  🔹 Problem Solving                                            │
-│     Turning challenges into learning opportunities            │
-│                                                                │
-│  🔹 Production Thinking                                        │
-│     Not just "works locally" - deployed & live                │
-│                                                                │
-│  🔹 Clean Code                                                │
-│     Writing code that's easy for humans to read               │
-│                                                                │
-│  🔹 Continuous Learning                                        │
-│     Always exploring new technologies & frameworks            │
-│                                                                │
-│  🔹 Real-World Impact                                          │
-│     Building things that solve actual problems                │
-│                                                                │
-└────────────────────────────────────────────────────────────────┘
-```
+- ✅ Mastering **Spring Boot** for production-grade applications
+- ✅ Building additional **full-stack projects** to strengthen portfolio
+- ✅ Learning **React** for modern frontend development
+- ✅ Preparing for **placement drives** and interviews
+- ✅ Understanding **microservices architecture** and **Docker**
+- ✅ Contributing to **open-source projects**
 
 ---
 
-## 🚀 **My Learning Journey**
+## 🌱 **My Learning Path**
 
-```
-2024 - FOUNDATION                    2025 - GROWTH                 2026 - MASTERY
-┌─────────────────────┐         ┌──────────────────┐        ┌─────────────────┐
-│                     │         │                  │        │                 │
-│ • Java Basics       │         │ • Full Stack     │        │ • Spring Boot   │
-│ • Web Technologies  │         │ • Real Projects  │        │ • Advanced Java │
-│ • SQL Fundamentals  │────────▶│ • Deployment     │───────▶│ • System Design │
-│ • GitHub Basics     │         │ • Problem Solving│        │ • Microservices │
-│                     │         │ • Git Workflow   │        │ • Cloud (AWS)   │
-│                     │         │                  │        │                 │
-└─────────────────────┘         └──────────────────┘        └─────────────────┘
-         ✅ DONE                         🎯 IN PROGRESS              📚 NEXT
-```
+**Completed:**
+- Core Java fundamentals
+- Web technologies (HTML, CSS, JavaScript)
+- Relational database design and optimization
+- Full-stack project from concept to production
+- Version control and GitHub collaboration
+- Deployment on cloud platforms (Vercel)
 
----
+**Currently Learning:**
+- Spring Framework & Spring Boot
+- Advanced Java concepts (Generics, Streams, Multithreading)
+- React or Vue.js
+- Docker containerization
 
-## 🌟 **Why I Stand Out**
-
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-  ⭐  LIVE PROJECT IN PRODUCTION  
-      90% of students have "works on my laptop" projects.
-      I have a LIVE, DEPLOYED, PRODUCTION-GRADE application.
-      
-  ⭐  FULL-STACK THINKING
-      I understand the entire stack: Database → Backend → Frontend
-      Not just frontend, not just backend - the WHOLE picture.
-      
-  ⭐  PROBLEM SOLVER
-      GPS accuracy issues? Fixed with validation & retry logic.
-      Database timeouts? Solved with connection pooling.
-      CORS errors? Configured proper headers & deployment.
-      
-  ⭐  PRODUCTION MINDSET
-      HTTPS, security headers, input validation, error handling.
-      Not just "does it work?" but "will it scale?"
-      
-  ⭐  CONTINUOUS LEARNER
-      From Geolocation API to Vercel deployment.
-      Self-taught technologies to complete real projects.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+**Next Goals:**
+- Microservices architecture
+- Kubernetes orchestration
+- Cloud platforms (AWS, Google Cloud)
+- System design and scalability patterns
 
 ---
 
-## 📞 **Let's Connect!**
+## 💼 **Professional Interests**
 
-```
-╔════════════════════════════════════════════════════════════════╗
-║                                                                ║
-║                    REACH OUT TO ME                             ║
-║                                                                ║
-║  📧 Email         m.arunkumar4700@gmail.com                   ║
-║  💼 LinkedIn      linkedin.com/in/arunkumar-m                 ║
-║  💻 GitHub        github.com/ARUNKUMAR3530                    ║
-║  📱 WhatsApp      +91 9360095701                              ║
-║  🌍 Location      Pudukkottai, Tamil Nadu, India              ║
-║                                                                ║
-║  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━    ║
-║                                                                ║
-║  💬 I'm interested in:                                         ║
-║     • Discussing Full-Stack Development                       ║
-║     • Exploring Backend Engineering roles                     ║
-║     • Collaborating on interesting projects                   ║
-║     • Learning from experienced developers                    ║
-║                                                                ║
-╚════════════════════════════════════════════════════════════════╝
-```
+- **Backend Development** - Building robust, scalable APIs
+- **Full-Stack Development** - End-to-end application development
+- **Database Design** - Optimizing queries and data structure
+- **DevOps** - Deployment, CI/CD, containerization
+- **Problem Solving** - Finding elegant solutions to complex challenges
+
+**Open to:** Full-time roles, internships, and collaborative projects in web development and backend engineering.
 
 ---
 
-## 🎓 **My 2026 Goals**
+## 🏆 **Key Strengths**
 
-```
-Q1-Q2 2026                          Q2-Q4 2026
-PLACEMENT SUCCESS                   CONTINUOUS GROWTH
-┌──────────────────────────┐    ┌────────────────────────┐
-│ ✓ Secure placement       │    │ ✓ Master Spring Boot   │
-│ ✓ First role as dev      │    │ ✓ Learn React/Vue      │
-│ ✓ Real team experience   │    │ ✓ Build 2+ projects    │
-│ ✓ Mentor juniors         │    │ ✓ Open-source contrib  │
-│ ✓ Deliver quality work   │    │ ✓ System design mastery│
-└──────────────────────────┘    └────────────────────────┘
-```
+1. **Problem Solver** - Faced challenges during development and solved them systematically
+2. **Full-Stack Thinking** - Understand architecture from database to UI
+3. **Production-Ready Mindset** - Deployed real project, not just portfolio pieces
+4. **Continuous Learner** - Self-taught many technologies to complete projects
+5. **Clean Code Advocate** - Follows best practices and design patterns
+6. **Collaborative** - Used Git properly with meaningful commits and documentation
 
 ---
 
-## 💪 **Fun Facts About Me**
+## 📈 **My Goals for 2026**
 
-```
-🎮 When not coding: Problem solving & learning new tech
-🎓 Currently: Preparing for placements & upskilling
-🚀 Dream: Build scalable products used by millions
-🌱 Philosophy: Every challenge is a learning opportunity
-⚡ Superpower: Turning ideas into working code
-🎯 Motto: "From concept to production, always learning"
-```
+- 🎯 Secure a position as a **Junior Developer / Full Stack Developer**
+- 🎯 Master **Spring Framework** and **Spring Boot**
+- 🎯 Build 2-3 more production-grade projects
+- 🎯 Contribute to open-source projects
+- 🎯 Develop expertise in **scalable system design**
+- 🎯 Continuously improve coding practices and stay updated with industry trends
 
 ---
 
-## 🔝 **Most Used Languages**
+## 🤝 **Let's Connect!**
 
-```
-Java       ███████████████████░░░  ~50%  Core Development
-JavaScript ██████████░░░░░░░░░░░░  ~30%  Frontend
-SQL        █████████░░░░░░░░░░░░░  ~15%  Database
-CSS        ████░░░░░░░░░░░░░░░░░░  ~05%  Styling
-```
+I'm always interested in:
+- 💬 Discussing web development and software architecture
+- 🔗 Collaborating on interesting projects
+- 📚 Learning from experienced developers
+- 🎯 Exploring job opportunities and internships
 
----
-
-## ⭐ **If You Found This Interesting**
-
-```
-═══════════════════════════════════════════════════════════════
-
-  🌟 Consider giving my projects a STAR ⭐
-  
-  🔗 Check out my GPS project (live & working!)
-  
-  📧 Reach out for collaborations or opportunities
-  
-  💬 Let's discuss tech, code, and scalable systems!
-
-═══════════════════════════════════════════════════════════════
-```
+**Feel free to reach out:**
+- 📧 Email: [m.arunkumar4700@gmail.com](mailto:m.arunkumar4700@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/arunkumar-m3035](https://linkedin.com/in/arunkumar-m3035)
+- 📱 WhatsApp: [9360095701](https://wa.me/919360095701)
 
 ---
 
-## 📝 **Latest Updates**
+## 📝 **Latest Blog Posts / Insights**
 
-```
-✅ 2026-03-26: GitHub profile optimization complete
-✅ 2026-03-20: Interview preparation guide created
-✅ 2026-03-15: GPS project deployed to Vercel
-✅ 2026-03-10: GitHub repository organized
-✅ 2026-03-01: Active development & learning continues
-```
+*I document my learning journey and share insights on:*
+- Full-stack development practices
+- Database optimization techniques
+- Deployment and DevOps basics
+- Interview preparation for developers
 
 ---
 
-```
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                                                                           ║
-║                    "Code is Poetry. Build Something Amazing."             ║
-║                                                                           ║
-║                         🚀 Let's Build Together 🚀                        ║
-║                                                                           ║
-╚═══════════════════════════════════════════════════════════════════════════╝
-```
+## ⭐ **Support & Feedback**
+
+If you find my work helpful or have suggestions for improvement, feel free to:
+- Star my projects ⭐
+- Open issues with feedback
+- Suggest collaborations
+- Share your thoughts via email
 
 ---
 
-**Last Updated:** March 2026 | **Status:** ✅ Placement Ready | **Next:** Building Awesome!
+**Last Updated:** March 2026  
+**Profile Status:** ✅ Placement-Ready
+
+---
+
+*"Code is poetry, and every project is a story. Let's write something amazing together!"* 🚀
