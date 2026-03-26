@@ -195,7 +195,7 @@ I'm always interested in:
 
 **Feel free to reach out:**
 - 📧 Email: [m.arunkumar4700@gmail.com](mailto:m.arunkumar4700@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/arunkumar-m](https://linkedin.com/in/arunkumar-m)
+- 💼 LinkedIn: [linkedin.com/in/arunkumar-m3035](https://linkedin.com/in/arunkumar-m3035)
 - 📱 WhatsApp: [9360095701](https://wa.me/919360095701)
 
 ---
