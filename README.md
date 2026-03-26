@@ -1,7 +1,7 @@
-# Hi, I'm **Arunkumar M** 👋 
+# Hi, I'm **Arunkumar M**   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" />
+
 <img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
-<h1 align="left">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
+  
 ### Full Stack Developer | Java • Web Development • MySQL
 
 I'm a B.Tech IT final-year student from Salem College of Engineering and Technology, passionate about building scalable web applications and solving real-world problems through code.
